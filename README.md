@@ -9,7 +9,7 @@ C'est à dire que si vous zoomez ou dézoomez sur une fractale, vous verrez touj
 
 L'École 42 a implémenté une bibliothèque graphique en interne, la MiniLibX, qui nous aidera à construire ces fractales.
 
-Comment tester le programme ?
+Comment tester le programme ? Vous devez être sous Linux !
 
 * 
 
