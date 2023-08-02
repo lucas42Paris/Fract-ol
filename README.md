@@ -12,6 +12,7 @@ L'École 42 a implémenté une bibliothèque graphique en interne, la MiniLibX, 
 Le code doit respecter la Norme imposée par 42 (voir pdf).
 
 __Comment tester le programme ?__ (vous devez être sous Linux !)
+
 * 
 
 
