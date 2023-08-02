@@ -11,6 +11,12 @@ L'École 42 a implémenté une bibliothèque graphique en interne, la MiniLibX, 
 
 __Comment tester le programme ?__ (vous devez être sous Linux !)
 
+
+![Mandelbrot](mandelbrot.png)
+![Julia](julia.png)
+![BurningShip](burning_ship.png)
+
+
 * 
 
 🇺🇸
