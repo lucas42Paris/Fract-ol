@@ -11,13 +11,6 @@ L'École 42 a implémenté une bibliothèque graphique en interne, la MiniLibX, 
 
 Le code doit respecter la Norme imposée par 42 (voir pdf).
 
-__Comment tester le programme ?__ (vous devez être sous Linux !)
-
-* 
-
-
-
-
 🇺🇸
 
 The goal of this project is to create a computer graphics program in C reproducing the behavior of fractals.
@@ -28,10 +21,6 @@ So if you zoom in or zoom out on a fractal, you will always see the same pattern
 42 School has implemented an in-house graphics library, the MiniLibX, which will help us build these fractals.
 
 The code must respect the Norm imposed by 42 (see pdf).
-
-__How to test the program ?__ (you must be on Linux!)
-
-* 
 
 # Screenshots
 
